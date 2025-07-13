@@ -7,7 +7,8 @@ Trzeba zainstalować [git](https://git-scm.com/downloads/win)
 Trzeba zainstalować odpowiednią wersje [python](https://www.python.org/downloads/release/python-31011/)
 
 
-**###Uwaga**
+### **Uwaga**
+
 Podczas instalacji pamiętaj aby zaznaczyć opcję na dole
 
 <img width="227" height="31" alt="image" src="https://github.com/user-attachments/assets/f9a58d7c-8aa7-474a-8867-28b534193c93" />
