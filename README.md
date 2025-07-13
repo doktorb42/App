@@ -7,7 +7,7 @@ Trzeba zainstalować [git](https://git-scm.com/downloads/win)
 Trzeba zainstalować odpowiednią wersje [python](https://www.python.org/downloads/release/python-31011/)
 
 
-### **Uwaga**
+###   __Uwaga__
 
 Podczas instalacji pamiętaj aby zaznaczyć opcję na dole
 
